@@ -12,25 +12,25 @@ Curso Técnico em informatica para Internet
 - REDES
 - MARKETING DIGITAL
 - PHOTOSHOP E COREL DRAW
-´´´
+
 # EXEMPLO HELLO WORD PHP
-´´´php
+```php
 <?php
   echo ('Hello Word');
 ?> 
-´´´
+```
 # EXEMPLO HELLO JS 
-´´´js
+```js
 <script>
   alert("hello word");
 </script>
-´´´
+```
 # EXEMPLO HELLO WORD C#
-´´´c#
+```c#
 static void Main()
 {
 Conole.WriteLine(Hello Word)
 console.ReadKey();
 
-}´´´
+}```
   
